@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **Choreo Console in WSO2**
+- 🔭 I’m currently working on **APIM SaaS in WSO2**
 - 🌱 I’m currently learning **MERN**
 - 🧑‍🎓 I’m an Undergraduate at **University of Sri Jayewardenepura**
 - 💬 Ask me about **Front-End Development & UI/UX Engineering**
