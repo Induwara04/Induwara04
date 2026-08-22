@@ -6,10 +6,10 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **APIM SaaS in WSO2**
-- 🌱 I’m currently learning **MERN**
+- 🔭 Working on **API Platform at WSO2**
+- 🎨 Specialized in **Front-End Development and UI/UX Engineering**
 - 🧑‍🎓 I’m an Undergraduate at **University of Sri Jayewardenepura**
-- 💬 Ask me about **Front-End Development & UI/UX Engineering**
+- 🚀 Passionate about simplifying complex enterprise workflows
 - 📫 How to reach me **dilanin@wso2.com**
 
 </td>
